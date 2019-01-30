@@ -6,6 +6,6 @@
 ## *** ***Version 1.0*** ***  
 ## Last date modified: 1/29/2019  
 
-Description:
+Description:  
 Calculates all possibilities that 8 queens on 1 8x8 chess board can be placed so that none of them threaten one another
 
